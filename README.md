@@ -7,6 +7,7 @@
  
 What I want to learn in the future:
  - Neural net and deep learning
+ - Website design (with Wordpress)
  
  
  I love music and play a couple of instruments
