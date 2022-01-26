@@ -1,4 +1,5 @@
 👋 Hi, I’m @kingpin1905
+I'm addicted to dict()
 
  - Comfortable with Python
    > Discord bots
