@@ -1,25 +1,29 @@
 👋 Hi, I’m @kingpin1905
 
-What I know:
-- Python
-   >Discord bots
-- C#
-   >Unity (beginner)
-- Web design
-   >HTML;
-   CSS; 
-   JavaScript;
-- Robotic
-  >Arduino; Mindstorms;
-
-Studying in computer science (Web , mobile and video games) since August 2022.
-I'm also a robotic teacher (age 5-14) for some summmer camps.
-
-What I want to learn in the future:
- - Neural net and deep learning
+<h3>What I can do in a nutshell: </h3>
  
- 
- I love music and play a couple of instruments
+ - Discord bots
+ - Static websites
+ - Dynamic websites (beginner)
+ - Object Oriented Programming
+ - Video games (with Unity)
+ - Basic electronic and robotics (mainly Arduino)
+ - SQL databases (beginner)
+
+<h3>Languages I know:</h3>
+
+ -  French
+ - English
+ - Python
+ - C#
+ - Java
+ - The website squad (Html, Css, Javascript, Php)
+ - SQL
+
+<h3>Stuff about me that might be usefull one day: </h3>
+I'm studying computer science (Web , mobile and video games) since August 2022. I'm also a robotic (and soon science) teacher (age 5-14) for some summmer camps. I would love to learn the basics of neural nets and deep learning in the future
+
+Well, you make it this far. Congrats! have an amazing day!
  
 
 <!---
