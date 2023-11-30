@@ -6,24 +6,29 @@
  - Static websites
  - Dynamic websites (beginner)
  - Object Oriented Programming
- - Video games (with Unity)
+ - Video games (with Unity and Godot)
  - Basic electronic and robotics (mainly Arduino)
- - SQL databases (beginner)
+ - SQL databases
 
 <h3>Languages I know:</h3>
 
- -  French
+ - French
  - English
  - Python
  - C#
+ - C++
  - Java
  - The website squad (Html, Css, Javascript, Php)
- - SQL
+ - SQL, noSQL
 
-<h3>Stuff about me that might be usefull one day: </h3>
-I'm studying computer science (Web , mobile and video games) since August 2022. I'm also a robotic (and soon science) teacher (age 5-14) for some summmer camps. I would love to learn the basics of neural nets and deep learning in the future
+<h3>Stuff about me that might be useful one day: </h3>
+I've been studying computer science (Web, mobile and video games) since August 2022. 
+I used to be a robotic and science teacher (age 5-14) for some summer camps. 
+I am an Esport producer.
+I am a lighting and audio technician.
+I would love to learn the basics of neural nets and deep learning in the future.
 
-Well, you make it this far. Congrats! have an amazing day!
+Well, you made it this far. Congrats! Have an amazing day!
  
 
 <!---
